@@ -1,0 +1,31 @@
+Channel instagram
+Stats:
+Total: 4
+active: 3
+forces arrival at scene: 0
+
+Event Reports:
+
+Report_1:
+	city: Global
+	date time: 23/12/24 16:40
+	event name: Trending Post
+	summary: Celebrity post by @StarFana...
+
+Report_2:
+	city: New York
+	date time: 24/12/24 18:40
+	event name: Influencer Event
+	summary: Top influencers gathered fo...
+
+Report_3:
+	city: Paris
+	date time: 25/12/24 07:20
+	event name: Photo Challenge
+	summary: Hashtag #CaptureParisChalle...
+
+Report_4:
+	city: Los Angeles
+	date time: 25/12/24 20:00
+	event name: Live Stream
+	summary: Live Q&A session with actor...

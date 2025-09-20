@@ -1,0 +1,19 @@
+Channel police
+Stats:
+Total: 2
+active: 1
+forces arrival at scene: 0
+
+Event Reports:
+
+Report_1:
+	city: Liberty City
+	date time: 23/12/24 13:40
+	event name: Grand Theft Auto
+	summary: Pink Lampadati Felon with l...
+
+Report_2:
+	city: Los Alamos
+	date time: 31/12/24 21:40
+	event name: Vandalism
+	summary: Multiple cars were spray-pa...

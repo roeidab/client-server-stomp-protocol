@@ -1,0 +1,15 @@
+{
+    "channel_name": "fire",
+    "events": [
+        {
+            "event_name": "Fire in a Building",
+            "city": "Gotham City",
+            "date_time": 1732961300,
+            "description": "Fire reported at Wayne Enterprises. Firefighters are on the scene.",
+            "general_information": {
+                "active": true,
+                "forces_arrival_at_scene": true
+            }
+        }
+    ]
+}

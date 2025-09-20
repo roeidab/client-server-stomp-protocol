@@ -1,0 +1,31 @@
+Channel news
+Stats:
+Total: 4
+active: 1
+forces arrival at scene: 0
+
+Event Reports:
+
+Report_1:
+	city: Capital City
+	date time: 23/12/24 20:40
+	event name: Election Results
+	summary: Mayor's election results an...
+
+Report_2:
+	city: Stormville
+	date time: 24/12/24 12:40
+	event name: Severe Weather Alert
+	summary: Tornado watch issued for th...
+
+Report_3:
+	city: Silicon Valley
+	date time: 25/12/24 02:00
+	event name: Tech Conference
+	summary: Annual Tech Innovators Conf...
+
+Report_4:
+	city: Victory City
+	date time: 25/12/24 14:40
+	event name: Sports Final
+	summary: Local team 'Thunderhawks' w...

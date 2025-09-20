@@ -1,0 +1,15 @@
+{
+    "channel_name": "police",
+    "events": [
+      {
+        "event_name": "Vandalism",
+        "city": "Los Alamos",
+        "date_time": 5555,
+        "description": "Multiple cars were spray-painted in a residential neighborhood on Oak Drive. Suspect fled before police arrived.",
+        "general_information": {
+          "active": false,
+          "forces_arrival_at_scene": false
+        }
+      }
+    ]
+  }
